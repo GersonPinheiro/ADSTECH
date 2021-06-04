@@ -1,2 +1,11 @@
-Site utilizando Bootstrap. 
-Criação de HTML, CSS e Java Script
+Site utilizando Bootstrap.
+Criação de um site em HTML, CSS e Java Script.
+https://gersonpinheiro.github.io/ADSTECH/ADS_TECH.html
+
+Referências:
+
+https://getbootstrap.com/
+https://www.w3schools.com/
+https://code.visualstudio.com/
+
+Atividade avaliativa em Hands on Work parte 01.
